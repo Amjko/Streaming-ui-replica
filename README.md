@@ -1,6 +1,6 @@
 ## 📃 Table of Contents
 - [About](#-video-streaming-ui-replica)
-- [Disclaimer](#-disclaimer)
+- [Disclaimer](#%EF%B8%8F-disclaimer)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
 - [How To Check](#-how-to-check)
 
